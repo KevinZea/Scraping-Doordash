@@ -2,7 +2,7 @@ import puppeteer from "puppeteer";
 
 export async function getStatus(link) {
     const browser = await puppeteer.launch({
-        headless: false,
+        headless: 'new',
         slowMo: 100,
     });
     const page = await browser.newPage();
