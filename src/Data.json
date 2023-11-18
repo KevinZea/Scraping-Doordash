@@ -1,0 +1,240 @@
+[
+  {
+    "nombre": "Subway",
+    "id": 1,
+    "direccion": "1256 Lexington Ave, New York",
+    "link": "https://www.doordash.com/store/subway-new-york-23863611/",
+    "status": "close"
+  },
+  {
+    "nombre": "Subway",
+    "id": 2,
+    "direccion": "341 West Street, New York",
+    "link": "https://www.doordash.com/store/subway-new-york-23861/",
+    "status": "close"
+  },
+  {
+    "nombre": "Subway",
+    "id": 3,
+    "direccion": "600 W 52nd St, New York",
+    "link": "https://www.doordash.com/store/subway-new-york-342653/",
+    "status": "close"
+  },
+  {
+    "nombre": "Subway",
+    "id": 4,
+    "direccion": "545 8th Ave, New York",
+    "link": "https://www.doordash.com/store/subway-new-york-25506124/",
+    "status": "close"
+  },
+  {
+    "nombre": "Subway",
+    "id": 5,
+    "direccion": "1400 Broadway, New York",
+    "link": "https://www.doordash.com/store/subway-new-york-719047/",
+    "status": "close"
+  },
+  {
+    "nombre": "Subway",
+    "id": 6,
+    "direccion": "555 West 23rd St, New York",
+    "link": "https://www.doordash.com/store/subway-new-york-342560/",
+    "status": "close"
+  },
+  {
+    "nombre": "Seven Eleven",
+    "id": 7,
+    "direccion": "1453 3rd Ave, New York",
+    "link": "https://www.doordash.com/convenience/store/1042297/",
+    "status": "close"
+  },
+  {
+    "nombre": "Seven Eleven",
+    "id": 8,
+    "direccion": "1st Avenue, New York",
+    "link": "https://www.doordash.com/convenience/store/738375/",
+    "status": "close"
+  },
+  {
+    "nombre": "Seven Eleven",
+    "id": 9,
+    "direccion": "478 3rd Ave, New York",
+    "link": "https://www.doordash.com/convenience/store/1042312/collection/28204/",
+    "status": "close"
+  },
+  {
+    "nombre": "Dunkin",
+    "id": 10,
+    "direccion": "973 8th Ave, New York",
+    "link": "https://www.doordash.com/store/dunkin'-new-york-2277849/",
+    "status": "close"
+  },
+  {
+    "nombre": "Dunkin",
+    "id": 11,
+    "direccion": "466 10th Ave, New York",
+    "link": "https://www.doordash.com/store/dunkin'-new-york-1051062/",
+    "status": "close"
+  },
+  {
+    "nombre": "Dunkin",
+    "id": 12,
+    "direccion": "150 47th St, New York",
+    "link": "https://www.doordash.com/store/dunkin'-new-york-1051082/",
+    "status": "close"
+  },
+  {
+    "nombre": "Dunkin",
+    "id": 13,
+    "direccion": "1104 Lexington Ave, New York",
+    "link": "https://www.doordash.com/store/dunkin'-new-york-1070291/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 14,
+    "direccion": "480 3rd Ave, New York",
+    "link": "https://www.doordash.com/en-NZ/store/mcdonald's-new-york-821321/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 15,
+    "direccion": "401 Park Ave, New York",
+    "link": "https://www.doordash.com/store/mcdonald's-new-york-837192/?utm_campaign=gpa",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 16,
+    "direccion": "490 8th Ave, New York",
+    "link": "https://www.doordash.com/store/mcdonald's-new-york-837220/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 17,
+    "direccion": "661 8th Ave, New York",
+    "link": "https://www.doordash.com/en-CA/store/mcdonald's-new-york-2732280/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 18,
+    "direccion": "18 East 42nd St, New York",
+    "link": "https://www.doordash.com/store/mcdonald's-new-york-837213/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 19,
+    "direccion": "1188 6th Ave, New York",
+    "link": "https://www.doordash.com/ja-JP/store/mcdonald's-new-york-25033124/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 20,
+    "direccion": "946 8th Ave, New York",
+    "link": "https://www.doordash.com/store/mcdonald's-new-york-837208/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 21,
+    "direccion": "1286 1st Ave, New York",
+    "link": "https://www.doordash.com/store/mcdonald's-new-york-2732464/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 22,
+    "direccion": "2049 Broadway, New York",
+    "link": "https://www.doordash.com/store/mcdonald's-new-york-837206/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 23,
+    "direccion": "556 7th Ave, New York",
+    "link": "https://www.doordash.com/ja-JP/store/mcdonald's-new-york-2732280/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 24,
+    "direccion": "966 3rd Ave, New York",
+    "link": "https://www.doordash.com/store/mcdonald's-new-york-837211/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 25,
+    "direccion": "2726 Broadway, New York",
+    "link": "https://www.doordash.com/store/mcdonald's-new-york-837222/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 26,
+    "direccion": "2549 Broadway, New York",
+    "link": "https://www.doordash.com/zh-CN/store/mcdonald's-new-york-837199/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 27,
+    "direccion": "1499 3rd Ave, New York",
+    "link": "https://www.doordash.com/store/mcdonald's-new-york-837221/",
+    "status": "close"
+  },
+  {
+    "nombre": "Macdonalds",
+    "id": 28,
+    "direccion": "14 East 42nd St, New York",
+    "link": "https://www.doordash.com/store/mcdonald's-new-york-25001090/",
+    "status": "close"
+  },
+  {
+    "nombre": "Taco Bell",
+    "id": 29,
+    "direccion": "500 8th Ave, New York",
+    "link": "https://www.doordash.com/store/taco-bell-new-york-1200390/",
+    "status": "close"
+  },
+  {
+    "nombre": "Taco Bell",
+    "id": 30,
+    "direccion": "976 6th Ave, New York",
+    "link": "https://www.doordash.com/store/taco-bell-new-york-1200139/",
+    "status": "close"
+  },
+  {
+    "nombre": "Taco Bell",
+    "id": 31,
+    "direccion": "224 7th Ave, New York",
+    "link": "https://www.doordash.com/store/taco-bell-new-york-1200386/",
+    "status": "close"
+  },
+  {
+    "nombre": "Taco Bell",
+    "id": 32,
+    "direccion": "1614 2nd Ave, New York",
+    "link": "https://www.doordash.com/store/taco-bell-new-york-1199187/",
+    "status": "close"
+  },
+  {
+    "nombre": "Taco Bell",
+    "id": 33,
+    "direccion": "840 8th Ave, New York",
+    "link": "https://www.doordash.com/store/taco-bell-new-york-1200423/",
+    "status": "close"
+  },
+  {
+    "nombre": "Taco Bell",
+    "id": 34,
+    "direccion": "707 Lexington Ave, New York",
+    "link": "https://www.doordash.com/store/taco-bell-new-york-1322284/",
+    "status": "close"
+  }
+]
