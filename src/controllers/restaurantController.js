@@ -28,7 +28,7 @@ export async function getResturant(req, res) {
         let dataName = await JSON.parse(data);
         const restaurant = dataName.find(obj => obj.id === parseInt(id));
         if (restaurant) {
-            restaurant.status = (await getStatus(restaurant.link)).length > 0 ? "Open" : "Temporarily closed"
+            restaurant.status = await getStatus(restaurant.link) ? "Open" : "Temporarily closed"
             res.json(restaurant)
         }
         else {
@@ -49,7 +49,7 @@ export async function getRestaurantsByName(req, res) {
         const restaurants = dataName.filter((e) => e.nombre === name)
         if (restaurants.length > 0) {
             for (let r of restaurants) {
-                r.status = (await getStatus(r.link)).length > 0 ? "Open" : "Temporarily closed"
+                r.status = await getStatus(r.link) ? "Open" : "Temporarily closed"
             }
             res.json(restaurants)
         }
